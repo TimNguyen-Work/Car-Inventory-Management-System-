@@ -32,6 +32,7 @@
     <code>git clone https://github.com/TimNguyen-Work/Car-Inventory-Management-System-.git</code></li>
     <li>Launch Intelliji and open the project directory.</li>
     <li>Ensure you have Java and Maven installed on your system before running the application.</li>
-    <li>Run the application using <strong>src\test\java\com\example\demo\DemoApplicationTests.java </strong> file</li> 
+    <li>Run the application using <strong>src\test\java\com\example\demo\DemoApplicationTests.java </strong> file</li>
+    <li>Open a brower and access the website at "http://localhost:8080"</li>
 </ol>
 
